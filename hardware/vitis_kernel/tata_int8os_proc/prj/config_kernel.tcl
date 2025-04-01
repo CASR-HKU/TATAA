@@ -1,0 +1,5 @@
+ipx::associate_bus_interfaces -busif m_axis_pcfbk -clock ap_clk [ipx::current_core]
+ipx::associate_bus_interfaces -busif m_axis_s2mm_zo -clock ap_clk [ipx::current_core]
+ipx::associate_bus_interfaces -busif s_axis_mm2s_xi -clock ap_clk [ipx::current_core]
+ipx::associate_bus_interfaces -busif s_axis_mm2s_yi -clock ap_clk [ipx::current_core]
+ipx::associate_bus_interfaces -busif s_axis_pccmd -clock ap_clk [ipx::current_core]

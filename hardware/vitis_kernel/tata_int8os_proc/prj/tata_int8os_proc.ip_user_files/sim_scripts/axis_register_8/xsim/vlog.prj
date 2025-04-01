@@ -1,0 +1,6 @@
+verilog xil_defaultlib --include "../../../ipstatic/hdl" \
+"../../../../tata_int8os_proc.gen/sources_1/ip/axis_register_8/sim/axis_register_8.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

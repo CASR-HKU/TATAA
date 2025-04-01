@@ -1,0 +1,2 @@
+axis_register_8.v,verilog,xil_defaultlib,../../../../tata_int8os_proc.gen/sources_1/ip/axis_register_8/sim/axis_register_8.v,incdir="$ref_dir/../../../ipstatic/hdl"incdir="../../../ipstatic/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,8 @@
+xpm_cdc.sv,systemverilog,xpm,../../../../../tools/Xilinx/Vivado/2021.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="$ref_dir/../../../ipstatic/hdl"incdir="../../../ipstatic/hdl"
+xpm_fifo.sv,systemverilog,xpm,../../../../../tools/Xilinx/Vivado/2021.1/data/ip/xpm/xpm_fifo/hdl/xpm_fifo.sv,incdir="$ref_dir/../../../ipstatic/hdl"incdir="../../../ipstatic/hdl"
+xpm_memory.sv,systemverilog,xpm,../../../../../tools/Xilinx/Vivado/2021.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="$ref_dir/../../../ipstatic/hdl"incdir="../../../ipstatic/hdl"
+xpm_VCOMP.vhd,vhdl,xpm,../../../../../tools/Xilinx/Vivado/2021.1/data/ip/xpm/xpm_VCOMP.vhd,incdir="$ref_dir/../../../ipstatic/hdl"incdir="../../../ipstatic/hdl"
+axis_infrastructure_v1_1_vl_rfs.v,verilog,axis_infrastructure_v1_1_0,../../../ipstatic/hdl/axis_infrastructure_v1_1_vl_rfs.v,incdir="$ref_dir/../../../ipstatic/hdl"incdir="../../../ipstatic/hdl"
+axis_register_slice_v1_1_vl_rfs.v,verilog,axis_register_slice_v1_1_24,../../../ipstatic/hdl/axis_register_slice_v1_1_vl_rfs.v,incdir="$ref_dir/../../../ipstatic/hdl"incdir="../../../ipstatic/hdl"
+axis_register_256.v,verilog,xil_defaultlib,../../../../tata_int8os_proc.gen/sources_1/ip/axis_register_256/sim/axis_register_256.v,incdir="$ref_dir/../../../ipstatic/hdl"incdir="../../../ipstatic/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v

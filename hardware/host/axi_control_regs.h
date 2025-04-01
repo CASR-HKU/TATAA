@@ -1,0 +1,23 @@
+#ifndef __AXI_CONTROL_REGS_H__
+#define __AXI_CONTROL_REGS_H__
+
+#define ADDR_AP_CTRL 0x00
+#define IP_START 0x1
+#define IP_DONE 0x2
+#define IP_IDLE 0x4
+#define ADDR_GIE 0x04
+#define ADDR_IER 0x08
+#define ADDR_ISR 0x0c
+#define ADDR_INSTR_BASE_ADDR_0 0x10
+#define ADDR_INSTR_BASE_ADDR_1 0x14
+#define ADDR_INSTR_BTT 0x18
+#define ADDR_YIZO_BASE_ADDR_0 0x1c
+#define ADDR_YIZO_BASE_ADDR_1 0x20
+#define ADDR_XI_BASE_ADDR_0 0x24
+#define ADDR_XI_BASE_ADDR_1 0x28
+#define ADDR_CORE_DEBUG_STATUS 0x2c
+#define ADDR_CORE_LATENCY_CYCLES 0x30
+#define ADDR_CORE_INSTR_STATUS 0x34
+#define ADDR_CORE_MEM_ITF_STATUS 0x38
+
+#endif
